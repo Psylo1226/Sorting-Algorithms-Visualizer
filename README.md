@@ -12,26 +12,105 @@
 
 ## 1. Algorithms Preview
 
+<div>
 <h2>Bubble Sort</h2>
+  <p>
+    Best time complexity: $n$<br>
+    Avg time complexity: $n^{2}$<br>
+    Worst time complexity: $n^{2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/bubble_sort_gif.gif" width="500" height="300">
+</div>
+
+<div>  
 <h2>Insertion Sort</h2>
+  <p>
+    Best time complexity: $n$<br>
+    Average time complexity: $n^{2}$<br>
+    Worst time complexity: $n^{2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/insertion_sort_gif.gif" width="500" height="300">
+ </div>
+ 
+<div>
 <h2>Selection Sort</h2>
+  <p>
+    Best time complexity: $n^{2}$<br>
+    Average time complexity: $n^{2}$<br>
+    Worst time complexity: $n^{2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/selection_sort_gif.gif" width="500" height="300">
+</div>
+ 
+<div>
 <h2>Quick Sort</h2>
+  <p>
+    Best time complexity: $nlogn$<br>
+    Average time complexity: $nlogn$<br>
+    Worst time complexity: $n^{2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/quick_sort_gif.gif" width="500" height="300">
+</div>
+ 
+<div>
 <h2>Heap Sort</h2>
+  <p>
+    Best time complexity: $nlogn$<br>
+    Average time complexity: $nlogn$<br>
+    Worst time complexity: $nlogn$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/heap_sort_gif.gif" width="500" height="300">
+</div>
+
+<div>
 <h2>Merge Sort</h2>
+  <p>
+    Best time complexity: $nlogn$<br>
+    Average time complexity: $nlogn$<br>
+    Worst time complexity: $nlogn$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/merge_sort_gif.gif" width="500" height="300">
+</div>
+  
+<div>
 <h2>Radix Sort</h2>
+  <p>
+    Best time complexity: $n$<br>
+    Average time complexity: $n\frac{k}{d}$<br>
+    Worst time complexity: $n\frac{k}{d}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/radix_sort_gif.gif" width="500" height="300">
+</div>
+  
+<div>
 <h2>Counting Sort</h2>
+  <p>
+    Best time complexity: $O(n+k)$<br>
+    Average time complexity: $O(n+k)$<br>
+    Worst time complexity: $O(n+k)$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/counting_sort_gif.gif" width="500" height="300">
+</div>
+  
+<div>
 <h2>Cocktail Sort</h2>
+  <p>
+    Best time complexity: $n$<br>
+    Average time complexity: $n^{2}$<br>
+    Worst time complexity: $n^{2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/cocktail_sort_gif.gif" width="500" height="300">
+</div>  
+
+<div>
 <h2>Shell Sort</h2>
+  <p>
+    Best time complexity: $nlogn$<br>
+    Average time complexity: $n^{4/3}$<br>
+    Worst time complexity: $n^{3/2}$<br>
+  </p>
 <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/shell_sort_gif.gif" width="500" height="300">
+</div>
 
 ## 2. Installation
 
