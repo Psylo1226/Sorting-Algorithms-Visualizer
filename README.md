@@ -1,9 +1,12 @@
-# Sorting-Algorithms-Visualizer
-The aim of this project was to use the pygame package in python to present a visualisation of some basic sorting algorithms.
+<p align="center">
+  <img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/Sorting_Algorithms_Visualizer.png" width="700" height="350">
+</p>
+<h1 align="center">Sorting-Algorithms-Visualizer</h1>
 
 
 
-- [1. Algorithms preview](#1-algorithms-preview)
+
+- [1. Algorithms Preview](#1-algorithms-preview)
 - [2. Installation](#2-installation)
 - [3. Get Started](#3-get-started)
 
