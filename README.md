@@ -12,6 +12,27 @@
 
 ## 1. Algorithms Preview
 
+<h2>Bubble Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/bubble_sort_gif.gif" width="500" height="300">
+<h2>Insertion Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/insertion_sort_gif.gif" width="500" height="300">
+<h2>Selection Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/selection_sort_gif.gif" width="500" height="300">
+<h2>Quick Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/quick_sort_gif.gif" width="500" height="300">
+<h2>Heap Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/heap_sort_gif.gif" width="500" height="300">
+<h2>Merge Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/merge_sort_gif.gif" width="500" height="300">
+<h2>Radix Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/radix_sort_gif.gif" width="500" height="300">
+<h2>Counting Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/counting_sort_gif.gif" width="500" height="300">
+<h2>Cocktail Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/cocktail_sort_gif.gif" width="500" height="300">
+<h2>Shell Sort</h2>
+<img src="https://github.com/Psylo1226/Sorting-Algorithms-Visualizer/blob/main/pictures/shell_sort_gif.gif" width="500" height="300">
+
 ## 2. Installation
 
 ```bash
