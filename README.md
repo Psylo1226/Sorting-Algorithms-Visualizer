@@ -10,7 +10,7 @@
 - [2. Installation](#2-installation)
 - [3. Get Started](#3-get-started)
 
-## 1. Algorithms preview
+## 1. Algorithms Preview
 
 ## 2. Installation
 
