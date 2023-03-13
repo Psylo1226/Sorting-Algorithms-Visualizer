@@ -164,7 +164,7 @@ python3 main.py
 
 ## 3. Get Started
 
-Running **_main.py** you can start sorting array (in descending order) represented by bars.
+Running **main.py** you can start sorting array (in descending order) represented by bars.
 
 - Select sorting algorithm by pressing:
 
